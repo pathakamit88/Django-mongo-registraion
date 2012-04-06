@@ -1,0 +1,6 @@
+Registration and login of user using mongodb
+
+Requirement:
+	django >= 1.3
+	pymongo
+	mongoengine
